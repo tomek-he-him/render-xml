@@ -36,6 +36,17 @@ Usage
 
 
 
+
+Alternatives
+------------
+
+This library is focused and configurable. If you’re after something else, you might try these out:
+
+- [pretty-data](https://npm.im/pretty-data)
+
+
+
+
 License
 -------
 
